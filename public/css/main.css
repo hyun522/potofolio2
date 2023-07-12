@@ -1,0 +1,8 @@
+/* 공통 */
+#container > .c1 { height:100vh;}
+/* c1 */
+.c1 { display:flex; justify-content:center; align-items:center; background-image:url("/img/bg1.jpg");}
+.c1 .c1_center { width:52%; text-align:center; color:#fff; }
+.c1 .c1_center h2 { font-size:50px;}
+.c1 .c1_center .two { margin-top:10px; /*글씨색 굵게*/ }
+.c1 .c1_center .c1_t2 { margin-top:15px; /*글씨색 굵게*/ }

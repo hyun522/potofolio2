@@ -1,0 +1,6 @@
+.h1 { display:flex; justify-content:center; position:absolute; top:0; left:0; width:100%;}
+.h1 .h1_center { width:63%; display:flex; justify-content:space-between; align-items:center;}
+.h1 .h1_center .h1_log { margin:20px 0;}
+.h1 .h1_center .h1_gnb { display:flex;}
+.h1 .h1_center .h1_gnb li { display:flex; margin-left:15px;}
+.h1 .h1_center .h1_gnb li a { color:#fff;}
